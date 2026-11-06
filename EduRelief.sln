@@ -6,6 +6,8 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{771088C2-CEA9-4F38-B54A-F8FF7BD38661}"
 	ProjectSection(SolutionItems) = preProject
 		.editconfig = .editconfig
+		.gitignore = .gitignore
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduRelief", "EduRelief.csproj", "{10F7CDFD-3944-AE98-66A1-2E277AA6EAD4}"
