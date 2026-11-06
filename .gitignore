@@ -1,0 +1,23 @@
+# Visual Studio & Build Output
+.vs/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+
+# App Config (Do not upload your local connection string)
+App.config
+appsettings.json
